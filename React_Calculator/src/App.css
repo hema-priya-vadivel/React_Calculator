@@ -2,3 +2,7 @@
   text-align: center;
   
 }
+
+.App h1 {
+  font-weight: bold;
+}
