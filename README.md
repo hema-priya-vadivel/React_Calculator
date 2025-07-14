@@ -25,7 +25,7 @@ This project demonstrates core React concepts like component state, conditional 
 To run the project locally:
 
 ```bash
-git clone https://github.com/hema-priya-vadivel/React_Calculator.git
+git clone https://github.com/hema-priya-vadivel/Click-n-Calc.git
 yarn install
 yarn start
 ```
