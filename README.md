@@ -3,7 +3,7 @@
 A responsive, intuitive calculator built using **React.js**.\
 This project demonstrates core React concepts like component state, conditional rendering and UI composition.
 
-![Click-n-Calc Screenshot](/React_Calculator/assets/image-1.png) <!-- Update path if needed -->
+![Click-n-Calc Screenshot](/assets/image-1.png)
 
 ## 🚀 Features
 
