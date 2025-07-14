@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^12.1.10",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-is": "^19.1.0",
     "react-scripts": "^4.0.3",
     "styled-components": "^5.3.1",
     "web-vitals": "^1.0.1"
@@ -36,5 +37,8 @@
       "last 1 safari version"
     ]
   },
-  "packageManager": "yarn@4.7.0+sha512.5a0afa1d4c1d844b3447ee3319633797bcd6385d9a44be07993ae52ff4facabccafb4af5dcd1c2f9a94ac113e5e9ff56f6130431905884414229e284e37bb7c9"
+  "packageManager": "yarn@1.22.22",
+  "engines": {
+    "node": "20.x"
+  }
 }
